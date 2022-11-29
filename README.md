@@ -13,8 +13,10 @@
 - Collector of 88x31 buttons and every scantron form possible
 
 <p align="left">
+  <!---
   <img src="https://github.com/geschmit/geschmit/raw/main/img/nofuckingthanks.gif">
   <img src="https://github.com/geschmit/geschmit/raw/main/img/NOW.png">
+  -->
   <a href="https://www.youtube.com/watch?v=KYxsNJYgrgI?autoplay=1">
     <img src="https://cyber.dabamos.de/88x31/click_here.gif">
   </a>

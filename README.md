@@ -13,5 +13,3 @@
 - :pencil2: Future CS Student in the making
 
 Check my pinned content below!
-
----

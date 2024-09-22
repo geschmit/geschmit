@@ -8,8 +8,8 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry-C51A4A?style=for-the-badge&logo=Raspberry-Pi&color=grey)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=grey)
 
-- :hammer: Hard and soft, I love them wares
-- :desktop_computer: Active member & contributor [@hackclub](https://hackclub.com/)
-- :pencil2: Future CS Student in the making
+- :hammer: Doohickey & thingamabob specialist
+- :desktop_computer: Active member & contributor [@hackclub](https://hackclub.com/) for several projects
+- :pencil2: Student in progress
 
 Check my pinned content below!

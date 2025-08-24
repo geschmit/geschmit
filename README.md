@@ -9,7 +9,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=grey)
 
 - :hammer: Doohickey & thingamabob specialist
-- :desktop_computer: Active member & contributor [@hackclub](https://hackclub.com/) for several projects
+- :desktop_computer: Contributor [@hackclub](https://hackclub.com/) for several projects
 - :pencil2: Student in progress
 
 Check my pinned content below!
